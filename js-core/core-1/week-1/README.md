@@ -12,4 +12,6 @@
 7. Functions - parameters and nested functions
 
 ### Resources
-**JS Core 1 - Week 1**- https://docs.google.com/presentation/d/1Qdg0CPrTspCMNAetTU59LvFWyyCP6Lvo_3yCDFxrb_c/edit?usp=sharing
+**Presentation Slides: JS Core 1 - Week 1** - https://docs.google.com/presentation/d/1Qdg0CPrTspCMNAetTU59LvFWyyCP6Lvo_3yCDFxrb_c/edit?usp=sharing
+
+**Syllabus: JavaScript Core 1 - Week 1** - https://anthonytran-dev.gitbook.io/cyf-syllabus/course/index-1/lesson
