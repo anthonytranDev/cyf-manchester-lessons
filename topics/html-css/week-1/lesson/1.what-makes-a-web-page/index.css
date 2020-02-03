@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans&display=swap');
+
+* {
+  box-sizing: border-box;
+}
+
+.base-font {
+  font-family: 'Open Sans';
+}
+
+.heading-large {
+  color: #363636;
+}
+
+.heading-small {
+  color: #545454;
+}
+
+.image {
+  max-width: 128px;
+}
+
+.paragraph {
+  color: #363636;
+}
